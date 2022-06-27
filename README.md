@@ -37,7 +37,7 @@
 <div align="center">
   <a href="https://github.com/acn3to/study-timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=study-timer&theme=midnight-purple" />
-  </a> 
+  </a>
   <a href="https://github.com/acn3to/negotiations-form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=negotiations-form&theme=midnight-purple" />
   </a>
