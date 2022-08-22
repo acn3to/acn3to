@@ -35,6 +35,9 @@
 ## 🆕 &nbsp;Latest projects
 
 <div align="center">
+  <a href="https://github.com/acn3to/cerve-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=cerve-shop&theme=midnight-purple" />
+  </a>
   <a href="https://github.com/acn3to/study-timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=study-timer&theme=midnight-purple" />
   </a>
