@@ -1,5 +1,5 @@
 <div align="center">
-  <img size="100%" src="https://i.ibb.co/Hd2QXVF/github-header.png" alt="Banner">
+  <img width="100vw" src="https://s4.gifyu.com/images/header90cc259c66c0bf76.gif" alt="Banner">
 </div>
 
 <br>
@@ -21,8 +21,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=800080)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=FFC0CB)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
