@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100vw" src="https://s4.gifyu.com/images/header90cc259c66c0bf76.gif" alt="Banner">
+  <img src="https://s4.gifyu.com/images/header90cc259c66c0bf76.gif" alt="Banner">
 </div>
 
 <br>
