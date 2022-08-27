@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/arnaldo-n3to/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Arnaldo%20Neto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/arnaldo.neto/" target="_blank">
+  <a href="https://www.instagram.com/acn3to/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-arnaldo.neto-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
   <a href="https://discordapp.com/users/366398902846619649/" target="_blank">
