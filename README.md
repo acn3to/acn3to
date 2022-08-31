@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://s4.gifyu.com/images/header90cc259c66c0bf76.gif" alt="Banner">
   
-  <h2>Heeey, take a look at <a href="https://github.com/acn3to/portfolio">my portfolio</a>! I've built it with Next.js, Tailwind and love 💙</h2>
+  <h2>Heeey, take a look at <a href="https://acn3to-portfolio.vercel.app/" target="_blank">my portfolio</a>! I've built it with Next.js, Tailwind and love 💙</h2>
 </div>
 
 <br>
