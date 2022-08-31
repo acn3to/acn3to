@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://s4.gifyu.com/images/header90cc259c66c0bf76.gif" alt="Banner">
+  
+  <h2>Heeey, take a look at <a href="https://github.com/acn3to/portfolio">my portfolio</a>! I've built it with Next.js, Tailwind and love 💙</h2>
 </div>
 
 <br>
@@ -23,6 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=800080)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=FFC0CB)&nbsp;
 ![SASS](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
@@ -35,6 +38,9 @@
 ## 🆕 &nbsp;Latest projects
 
 <div align="center">
+  <a href="https://github.com/acn3to/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=portfolio&theme=midnight-purple" />
+  </a>
   <a href="https://github.com/acn3to/cerve-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acn3to&repo=cerve-shop&theme=midnight-purple" />
   </a>
