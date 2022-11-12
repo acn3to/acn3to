@@ -8,8 +8,8 @@
 ## 💫 Little bit bout me
 
 - 🔭 I'm currently looking for my first job as a software developer
-- 🌱 I'm always learning **JavaScript, TypeScript, React and Node**
-- 💬 Ask me about **Front-end & Git**
+- 🌱 I'm always learning **JavaScript, TypeScript, React and Next**
+- 💬 Ask me about **anything! If I'm able to help, it will be a pleasure!**
 - 😗 Fun Fact: I don't know how to whistle
 
 <br>
