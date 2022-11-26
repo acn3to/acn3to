@@ -1,14 +1,16 @@
 <div align="center">
 
 <h1> Hey! I'm Arnaldo Neto 👋</h1>
-<h3>Take a look at <a href="https://acn3to-portfolio.vercel.app/" target="_blank">my portfolio</a>! I've built it with Next.js, Tailwind and love 💙</h3>
-
+<h3>Full Stack Web Developer</h3>
+  
+<br>
+ 
 </div>
 
 ## 💫 Little bit bout me
 
 - 🔭 I'm currently looking for my first job as a software developer
-- 🌱 I'm always learning **JavaScript, TypeScript, React and Next**
+- 🌱 I'm always learning **JavaScript, TypeScript, Node, React and Next**
 - 💬 Ask me about **anything! If I'm able to help, it will be a pleasure!**
 - 😗 Fun Fact: I don't know how to whistle
 
@@ -23,6 +25,7 @@
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Ts-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="React-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 
