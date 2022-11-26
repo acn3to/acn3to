@@ -1,7 +1,7 @@
 <div align="center">
-
-<h1> Hey! I'm Arnaldo Neto 👋</h1>
-<h3>Full Stack Web Developer</h3>
+  
+<h1> Hey! I'm Arnaldo Neto 👾</h1>
+<h3>💻 Full Stack Web Developer</h3>
   
 <br>
  
