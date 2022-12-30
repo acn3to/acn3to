@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="">:us: English</a></td></tr>
- <tr><td><a href="">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-pt-br.md">:brazil: Português</a></td></tr>
 </table>
 
 <h1>Arnaldo Neto :space_invader:</h1>
