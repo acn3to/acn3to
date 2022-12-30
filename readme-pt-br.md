@@ -8,11 +8,13 @@
   
 <br>
  
-Louco por viagens e trilhas, DJ, apaixonado por tecnologia e entusiasta de suas infinitas possibilidades. Descobri minha paixão por desenvolvimento ainda adolescente, quando comecei a me aventurar na construção de interfaces e servidores alternativos para jogos de RPG online. Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando me especializei em Web Design e ilustração vetorial com Adobe Illustrator. Atualmente com foco em Desenvolvimento Web Full Stack já acumulo experiências, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com JavaScript, TypeScript, React, Node.js e SQL.
+Louco por viagens e trilhas, DJ, apaixonado por tecnologia e entusiasta de suas infinitas possibilidades. Descobri minha paixão por desenvolvimento ainda adolescente, quando comecei a me aventurar na construção de interfaces e servidores alternativos para jogos de RPG online.
+
+Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando me especializei em Web Design e ilustração vetorial com Adobe Illustrator. Atualmente com foco em Desenvolvimento Web Full Stack já acumulo experiências, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com JavaScript, TypeScript, React, Node.js e SQL.
 
 <br>
 
-## :bust_in_silhouette: Mais sobre mim
+<h2>:bust_in_silhouette: Mais sobre mim</h2>
 
 <details>
  <summary>:question: <strong>Curiosidades</strong></summary>
@@ -144,4 +146,4 @@ Louco por viagens e trilhas, DJ, apaixonado por tecnologia e entusiasta de suas 
   </div>
 </details>
  
-## :pushpin: Principais projetos :arrow_heading_down:
+<h2>:pushpin: Principais projetos :arrow_heading_down:</h2>
