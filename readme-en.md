@@ -1,40 +1,40 @@
 <table align="right">
- <tr><td><a href="">:us: English</a></td></tr>
- <tr><td><a href="">:brazil: Português</a></td></tr>
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:brazil: Português</a></td></tr>
 </table>
 
 <h1>Arnaldo Neto :space_invader:</h1>
-<h3>:computer: Desenvolvedor Full Stack</h3>
+<h3>:computer: Full Stack Developer</h3>
   
 <br>
  
-Louco por viagens e trilhas, DJ, apaixonado por tecnologia e entusiasta de suas infinitas possibilidades. Descobri minha paixão por desenvolvimento ainda adolescente, quando comecei a me aventurar na construção de interfaces e servidores alternativos para jogos de RPG online.
+Mad about travelling and trails, DJ, fond of technology and enthusiastic about its infinite possibilities.
 
-Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando me especializei em Web Design e ilustração vetorial com Adobe Illustrator. Atualmente com foco em Desenvolvimento Web Full Stack já acumulo experiências, tanto em Front-end quanto em Back-end, através de projetos desenvolvidos com JavaScript, TypeScript, React, Node.js e SQL.
+I started studying design and creation of digital content in 2011, when I specialized in Web Design and vector ilustration with Adobe Illustrator. Currently focusing on Full Stack Web Development, I have accumulated experience, both in Front-end and Back-end, through projects developed with JavaScript, TypeScript, React, Node.js and SQL.
 
 <br>
 
-<h2>:bust_in_silhouette: Mais sobre mim</h2>
+<h2>:bust_in_silhouette: More about me</h2>
 
 <details>
- <summary>:question: <strong>Curiosidades</strong></summary>
+ <summary>:question: <strong>Curiosities</strong></summary>
   <br>
     <div align="left">
-:rocket: Atuo como Desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>,  desenvolvendo aplicações tanto em Back quanto Frontend, construindo API Rests, implementando soluções automatizadas via WhatsApp e Telegram e prestando manutenção de ambiente em AWS e Docker.
+:rocket: &nbsp; I work as a Full Stack Developer at <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, developing applications in both Backend and Frontend, building API Rests, implementing automated solutions via WhatsApp and Telegram and providing environment maintenance in AWS and Docker.
     </div>
   <br>
     <div align="left">
-:seedling: Estou sempre aprendendo <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node</strong> e <strong>React</strong>.
+:seedling: &nbsp; I'm always learning <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Node</strong> and <strong>React</strong>.
     </div>
   <br>
   <div align="left">
-:speech_balloon: Pergunte-me sobre <strong>qualquer coisa!</strong> Se eu puder ajudar, será um prazer!
+:speech_balloon: &nbsp; Ask me about <strong>anything</strong>! If I can help, it will be a pleasure!
   </div>
   <br>
 </details>
 
 <details>
- <summary>:man_technologist: <strong>Tecnologias com que trabalho</strong></summary>
+ <summary>:man_technologist: <strong>Technologies I work with</strong></summary>
   <br>
     <div align="center">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -93,7 +93,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:gear: <strong>Gráfico de Atividades do GitHub</strong></summary>
+ <summary>:gear: <strong>GitHub Activity Graph</strong></summary>
   <br>
     <div align="center">
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acn3to&theme=nord_dark"/>
@@ -115,7 +115,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:mailbox: <strong>Contato</strong></summary>
+ <summary>:mailbox: <strong>Contact</strong></summary>
   <br>
     <div align="center">
       <a href="mailto:costanetoow@gmail.com" target="_blank">
@@ -138,7 +138,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:musical_note: <strong>Ouvindo no Spotify</strong></summary>
+ <summary>:musical_note: <strong>Listening on Spotify</strong></summary>
   <br>
   <div align="center">
     <a href="https://github.com/acn3to">
@@ -146,4 +146,4 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
   </div>
 </details>
  
-<h2>:pushpin: Principais projetos :arrow_heading_down:</h2>
+<h2>:pushpin: Main projects :arrow_heading_down:</h2>
