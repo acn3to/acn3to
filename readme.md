@@ -17,7 +17,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 <h2>:bust_in_silhouette: Mais sobre mim</h2>
 
 <details>
- <summary>:question: <strong>Curiosidades</strong></summary>
+ <summary><strong>Curiosidades</strong> :question: </summary>
   <br>
     <div align="left">
 :rocket: Atuo como Desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>,  desenvolvendo aplicações tanto em Back quanto Frontend, construindo API Rests, implementando soluções automatizadas via WhatsApp e Telegram e prestando manutenção de ambiente em AWS e Docker.
@@ -34,7 +34,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:man_technologist: <strong>Tecnologias com que trabalho</strong></summary>
+ <summary><strong>Tecnologias com que trabalho</strong> :wrench: </summary>
   <br>
     <div align="center">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -93,7 +93,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:gear: <strong>Gráfico de Atividades do GitHub</strong></summary>
+ <summary><strong>Gráfico de Atividades do GitHub</strong> :gear: </summary>
   <br>
     <div align="center">
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acn3to&theme=nord_dark"/>
@@ -115,7 +115,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:mailbox: <strong>Contato</strong></summary>
+ <summary><strong>Contato</strong> :mailbox: </summary>
   <br>
     <div align="center">
       <a href="mailto:costanetoow@gmail.com" target="_blank">
@@ -138,7 +138,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
 </details>
 
 <details>
- <summary>:musical_note: <strong>Ouvindo no Spotify</strong></summary>
+ <summary><strong>Ouvindo no Spotify</strong> :musical_note: </summary>
   <br>
   <div align="center">
     <a href="https://github.com/acn3to">
