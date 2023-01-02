@@ -17,7 +17,7 @@ I started studying design and creation of digital content in 2011, when I specia
 <h2>:bust_in_silhouette: More about me</h2>
 
 <details>
- <summary>:question: <strong>Curiosities</strong></summary>
+ <summary><strong>Curiosities</strong> :question: </summary>
   <br>
     <div align="left">
 :rocket: &nbsp; I work as a Full Stack Developer at <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, developing applications in both Backend and Frontend, building API Rests, implementing automated solutions via WhatsApp and Telegram and providing environment maintenance in AWS and Docker.
@@ -34,7 +34,7 @@ I started studying design and creation of digital content in 2011, when I specia
 </details>
 
 <details>
- <summary>:man_technologist: <strong>Technologies I work with</strong></summary>
+ <summary><strong>Technologies I work with</strong> :wrench: </summary>
   <br>
     <div align="center">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
@@ -93,7 +93,7 @@ I started studying design and creation of digital content in 2011, when I specia
 </details>
 
 <details>
- <summary>:gear: <strong>GitHub Activity Graph</strong></summary>
+ <summary><strong>GitHub Activity Graph</strong> :gear: </summary>
   <br>
     <div align="center">
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acn3to&theme=nord_dark"/>
@@ -115,7 +115,7 @@ I started studying design and creation of digital content in 2011, when I specia
 </details>
 
 <details>
- <summary>:mailbox: <strong>Contact</strong></summary>
+ <summary><strong>Contact</strong> :mailbox: </summary>
   <br>
     <div align="center">
       <a href="mailto:costanetoow@gmail.com" target="_blank">
@@ -138,7 +138,7 @@ I started studying design and creation of digital content in 2011, when I specia
 </details>
 
 <details>
- <summary>:musical_note: <strong>Listening on Spotify</strong></summary>
+ <summary><strong>Listening on Spotify</strong> :musical_note: </summary>
   <br>
   <div align="center">
     <a href="https://github.com/acn3to">
