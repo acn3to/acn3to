@@ -124,9 +124,6 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
       <a href="https://discordapp.com/users/366398902846619649/" target="_blank">
         <img align="center" height="40em" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
       </a>
-    </div>    
-  <br>
-    <div align="center">
       <a href="https://www.linkedin.com/in/arnaldo-fullstack/" target="_blank">
         <img align="center" height="40em" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
       </a>
@@ -134,7 +131,7 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
         <img align="center" height="40em" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
       </a>
     </div>
-  <br> 
+  <br>
 </details>
 
 <details>
