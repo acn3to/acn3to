@@ -146,4 +146,4 @@ I started studying design and creation of digital content in 2011, when I specia
   </div>
 </details>
  
-<h2>:pushpin: Main projects :arrow_heading_down:</h2>
+<h2>Main projects :arrow_heading_down:</h2>

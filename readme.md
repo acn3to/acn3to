@@ -143,4 +143,4 @@ Passei a estudar design e desenvolvimento de conteúdos digitais em 2011, quando
   </div>
 </details>
  
-<h2>:pushpin: Principais projetos :arrow_heading_down:</h2>
+<h2>Principais projetos :arrow_heading_down:</h2>
