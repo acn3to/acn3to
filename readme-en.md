@@ -8,7 +8,7 @@
   
 <br>
  
-Mad about travelling and trails, DJ, fond of technology and enthusiastic about its infinite possibilities.
+Mad about travelling and trails, DJ, fond of technology and enthusiastic about its infinite possibilities. I discovered my passion for development as a teenager, when I started venturing into building alternative interfaces and servers for online roleplaying games.
 
 I started studying design and creation of digital content in 2011, when I specialized in Web Design and vector ilustration with Adobe Illustrator. Currently focusing on Full Stack Web Development, I have accumulated experience, both in Front-end and Back-end, through projects developed with JavaScript, TypeScript, React, Node.js and SQL.
 
