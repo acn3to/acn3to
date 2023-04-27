@@ -4,9 +4,8 @@
 </table>
 
 <h1>Arnaldo Neto :space_invader:</h1>
+
 <h3>:computer: Full Stack Developer</h3>
-  
-<br>
 
 <a href="https://app.daily.dev/acn3to"><img src="https://api.daily.dev/devcards/641090bda2d04b858cad0e0a324174e3.png?r=sx5" width="300" align="right" alt="Arnaldo Neto's Dev Card"/></a>
  
@@ -16,9 +15,7 @@ I started my journey in the digital world in 2011, specializing in Web Design wi
 
 Currently, I am a Full Stack web developer who loves creating innovative and efficient solutions with JavaScript, TypeScript, React, Next.js, Node.js, and SQL. I can create amazing user interfaces and develop secure and scalable servers, databases, APIs, and web services.
 
-<br>
-
-<h2>More about me</h2>
+<h3>More about me</h3>
 
 <details>
  <summary><strong>Curiosities</strong></summary>
