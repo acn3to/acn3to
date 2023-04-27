@@ -97,7 +97,7 @@ Atualmente, sou um desenvolvedor web Full Stack que adora criar soluções inova
 </details>
 
 <details>
- <summary><strong>Gráfico de Atividades do GitHub</strong> :gear: </summary>
+ <summary><strong>Gráfico de Atividades do GitHub</strong></summary>
   <br>
     <div >
       <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acn3to&theme=nord_dark"/>
