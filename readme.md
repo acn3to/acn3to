@@ -9,11 +9,7 @@
 
 <a href="https://app.daily.dev/acn3to"><img src="https://api.daily.dev/devcards/641090bda2d04b858cad0e0a324174e3.png?r=sx5" width="300" align="right" alt="Arnaldo Neto's Dev Card"/></a>
  
-Louco por viagens e trilhas, DJ, apaixonado por tecnologia e entusiasta de suas infinitas possibilidades.
-
-Comecei minha jornada no mundo digital em 2011, quando me especializei em Web Design com Adobe Dreamweaver, Fireworks e Flash, e ilustração vetorial com o Adobe Illustrator. Ao longo dos anos, também investi meu tempo em produção musical, mas foi na área de desenvolvimento de software que encontrei minha verdadeira paixão.
-
-Atualmente, sou um desenvolvedor web Full Stack que adora criar soluções inovadoras e eficientes com JavaScript, TypeScript, React, Next.js, Node.js e SQL. Posso criar interfaces de usuário incríveis e desenvolver servidores, bancos de dados, APIs e serviços web seguros e escaláveis.
+Viajante, apaixonado por trilhas e fascinado pelo potencial da tecnologia, mergulhei no mundo digital em 2011. Meu caminho começou com Web Design, usando ferramentas como Adobe Dreamweaver, Fireworks e Flash, além de dar asas à criatividade com ilustrações vetoriais no Adobe Illustrator. No entanto, foi no desenvolvimento de software que encontrei minha verdadeira paixão.
 
 <h3>Mais sobre mim</h3>
 
@@ -21,7 +17,7 @@ Atualmente, sou um desenvolvedor web Full Stack que adora criar soluções inova
  <summary><strong>Curiosidades</strong></summary>
   <br>
     <div align="left">
-:rocket: Atuo como Desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>,  desenvolvendo aplicações tanto em Back quanto Frontend, construindo API Rests, implementando soluções automatizadas via WhatsApp e Telegram e prestando manutenção de ambiente em AWS e Docker.
+:rocket: Atuo como Desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, desenvolvendo e mantenho portais de negociação com integrações em APIs bancárias, visando segurança e eficiência para os usuários. Automatizo soluções para WhatsApp e Telegram utilizando ferramentas como Botpress, n8n, Mautic e Airtable. Trabalho com APIs REST, além de criar e gerenciar ambientes de desenvolvimento e produção utilizando serviços da AWS. Sou também mentor de estagiários e novos desenvolvedores, compartilhando conhecimento e promovendo o crescimento profissional da equipe.
     </div>
   <br>
     <div align="left">
