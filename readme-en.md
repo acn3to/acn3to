@@ -5,19 +5,17 @@
 
 <h1>Arnaldo Neto :space_invader:</h1>
 
-<h3>:computer: Full Stack Developer</h3>
+<h3>:computer: Full Stack Web Developer</h3>
 
 <a href="https://app.daily.dev/acn3to"><img src="https://api.daily.dev/devcards/641090bda2d04b858cad0e0a324174e3.png?r=sx5" width="300" align="right" alt="Arnaldo Neto's Dev Card"/></a>
  
-Traveller, passionate about trails and fascinated by the potential of technology, I delved into the digital world in 2011, initially focusing on Web Design using tools like Adobe Dreamweaver, Fireworks, and Flash, and unleashing my creativity with vector illustrations in Adobe Illustrator. However, it was in software development where I discovered my true passion.
-
 <h3>More about me</h3>
 
 <details>
  <summary><strong>Curiosities</strong></summary>
   <br>
     <div align="left">
-:rocket: &nbsp; I work as a Full Stack Developer at <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, developing and maintaining negotiation portals with integrations to banking APIs, aiming for security and efficiency for users. I automate solutions for WhatsApp and Telegram using tools like Botpress, n8n, Mautic, and Airtable. I work with REST APIs and create and manage development and production environments using AWS services. I also mentor interns and new developers, sharing knowledge and fostering professional growth within the team.
+:rocket: &nbsp; I work as a Full Stack Web Developer at <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, developing and maintaining negotiation portals with integrations to banking APIs, aiming for security and efficiency for users. I automate solutions for WhatsApp and Telegram using tools like Botpress, n8n, Mautic, and Airtable. I work with REST APIs and create and manage development and production environments using AWS services. I also mentor interns and new developers, sharing knowledge and fostering professional growth within the team.
     </div>
   <br>
     <div align="left">
