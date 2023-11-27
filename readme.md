@@ -5,11 +5,9 @@
 
 <h1>Arnaldo Neto :space_invader:</h1>
 
-<h3>:computer: Desenvolvedor Full Stack</h3>
+<h3>:computer: Desenvolvedor Web Full Stack</h3>
 
 <a href="https://app.daily.dev/acn3to"><img src="https://api.daily.dev/devcards/641090bda2d04b858cad0e0a324174e3.png?r=sx5" width="300" align="right" alt="Arnaldo Neto's Dev Card"/></a>
- 
-Viajante, apaixonado por trilhas e fascinado pelo potencial da tecnologia, mergulhei no mundo digital em 2011. Meu caminho começou com Web Design, usando ferramentas como Adobe Dreamweaver, Fireworks e Flash, além de dar asas à criatividade com ilustrações vetoriais no Adobe Illustrator. No entanto, foi no desenvolvimento de software que encontrei minha verdadeira paixão.
 
 <h3>Mais sobre mim</h3>
 
@@ -17,7 +15,7 @@ Viajante, apaixonado por trilhas e fascinado pelo potencial da tecnologia, mergu
  <summary><strong>Curiosidades</strong></summary>
   <br>
     <div align="left">
-:rocket: Atuo como Desenvolvedor Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, desenvolvendo e mantenho portais de negociação com integrações em APIs bancárias, visando segurança e eficiência para os usuários. Automatizo soluções para WhatsApp e Telegram utilizando ferramentas como Botpress, n8n, Mautic e Airtable. Trabalho com APIs REST, além de criar e gerenciar ambientes de desenvolvimento e produção utilizando serviços da AWS. Sou também mentor de estagiários e novos desenvolvedores, compartilhando conhecimento e promovendo o crescimento profissional da equipe.
+:rocket: Atuo como Desenvolvedor Web Full Stack na <a href="https://www.linkedin.com/company/saltsystems/" target="_blank">Salt Systems</a>, desenvolvendo e mantenho portais de negociação com integrações em APIs bancárias, visando segurança e eficiência para os usuários. Automatizo soluções para WhatsApp e Telegram utilizando ferramentas como Botpress, n8n, Mautic e Airtable. Trabalho com APIs REST, além de criar e gerenciar ambientes de desenvolvimento e produção utilizando serviços da AWS. Sou também mentor de estagiários e novos desenvolvedores, compartilhando conhecimento e promovendo o crescimento profissional da equipe.
     </div>
   <br>
     <div align="left">
