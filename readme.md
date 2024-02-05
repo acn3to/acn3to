@@ -1,5 +1,4 @@
-
-<table align="right">
+<table>
  <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-en.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:brazil: Português</a></td></tr>
 </table>
@@ -16,10 +15,12 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["JavaScript", "Typescript", "Python"];
+  ambientes = ["Node.js", "Conda"]
   bibliotecas = ["React", "Axios", "Redux", "Pandas", "Numpy"];
   frameworks = ["NestJS", "Express.js"];
-  databases = ["MongoDB", "PostgreSQL", "Redis"]
-  nuvem = ["AWS", "GCP"]
+  databases = ["MongoDB", "PostgreSQL", "Redis"];
+  nuvem = ["AWS", "GCP"];
+  ferramentas = ["Docker"];
 }
 ```
 
