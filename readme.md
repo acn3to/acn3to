@@ -8,7 +8,7 @@ import Desenvolvedor from acn3to;
 
 class SobreMim extends Desenvolvedor {
   nome = "Arnaldo Neto";
-  area = "Engenharia de Software";
+  area = "Desenvolvimento de Software";
   trabalho = "Salt Systems";
   local = "Salvador / BA";
 }
@@ -28,7 +28,7 @@ class Skills extends Desenvolvedor {
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 💼 Trabalhando atualmente como Engenheiro de Software na Salt Systems.
+- 💼 Trabalhando atualmente como Desenvolvedor de Software na Salt Systems.
 - 🌱 Aprendendo mais sobre Data Science e Inteligencia Artificial.
 
 ## Skills
