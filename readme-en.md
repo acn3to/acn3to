@@ -8,7 +8,7 @@ import Developer from acn3to;
 
 class AboutMe extends Developer {
   name = "Arnaldo Neto";
-  area = "Software Engineering";
+  area = "Software Development";
   job = "Salt Systems";
   location = "Salvador / BA";
 }
@@ -28,7 +28,7 @@ class Skills extends Developer {
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduated in Systems Analysis and Development.
-- 💼 Currently working as a Software Engineer at Salt Systems.
+- 💼 Currently working as a Software Developer at Salt Systems.
 - 🌱 Learning more about Data Science and Artificial Intelligence.
 
 ## Skills
