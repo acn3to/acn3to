@@ -4,35 +4,35 @@
 </table>
 
 ```js
-import Developer from acn3to;
+import Desenvolvedor from acn3to;
 
-class AboutMe extends Developer {
-    name = "Arnaldo Neto";
-    area = "Software Development";
-    location = "Salvador / BA";
+class SobreMim extends Desenvolvedor {
+    nome = "Arnaldo Neto";
+    area = "Desenvolvimento de Software";
+    localizacao = "Salvador / BA";
 }
 
-class Skills extends Developer {
-    languages = ["JavaScript", "Typescript", "Python"];
-    environments = ["Node.js", "Conda"];
-    libraries = ["React", "Axios", "Redux", "Pandas", "Numpy"];
+class Habilidades extends Desenvolvedor {
+    linguagens = ["JavaScript", "Typescript", "Python"];
+    ambientes = ["Node.js", "Conda"];
+    bibliotecas = ["React", "Axios", "Redux", "Pandas", "Numpy"];
     frameworks = ["NestJS", "Express.js"];
-    databases = ["MongoDB", "PostgreSQL", "Redis"];
-    cloud = ["AWS", "GCP"];
-    tools = ["Docker"];
+    bancosDeDados = ["MongoDB", "PostgreSQL", "Redis"];
+    nuvem = ["AWS", "GCP"];
+    ferramentas = ["Docker"];
 }
 ```
 
-## About me
+## Sobre
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Graduated in Systems Analysis and Development.
-- 💼 Currently working as a Software Developer at Salt Systems.
-- 🌱 Learning more about Data Science and Artificial Intelligence.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 💼 Atualmente trabalhando como Desenvolvedor de Software na Salt Systems.
+- 🌱 Aprendendo mais sobre Ciência de Dados e Inteligência Artificial.
 
-## Skills
+## Habilidades
 
-**Languages, libraries, and frameworks**
+**Linguagens, bilbliotecas e frameworks**
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -50,7 +50,7 @@ class Skills extends Developer {
 
 <br/>
 
-**Databases**
+**Banco de dados**
 
 <div>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -60,7 +60,7 @@ class Skills extends Developer {
 
 <br/>
 
-**Testing**
+**Testes**
 
 <div>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -68,7 +68,7 @@ class Skills extends Developer {
 
 <br/>
 
-**Utilities**
+**Utilidades**
 
 <div>
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
@@ -96,7 +96,7 @@ class Skills extends Developer {
 
 <br/>
 
-**Development Tools**
+**Ferramentas**
 
 <div>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -111,13 +111,12 @@ class Skills extends Developer {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acn3to&theme=ocean_dark&show_icons=true" />
 </a>
 
-## Where to find me
+## Onde me encontrar
 
 <div>
  
-[![Linkedin](https://img.shields.io/badge/-Arnaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldo-fullstack)](https://www.linkedin.com/in/arnaldo-fullstack)
+[![Linkedin](https://img.shields.io/badge/-Arnaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldo-dev)](https://www.linkedin.com/in/arnaldo-dev)
 [![Gmail Badge](https://img.shields.io/badge/-costanetoow@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costanetoow@email.com)](mailto:costanetoow@email.com)
 [![GitHub](https://img.shields.io/github/followers/acn3to?label=follow&style=social)](https://github.com/acn3to)
 
 </div>
-

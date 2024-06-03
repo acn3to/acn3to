@@ -6,14 +6,13 @@
 ```js
 import Developer from acn3to;
 
-class AboutMe extends Developer {
-  name = "Arnaldo Neto";
+class SobreMim extends Desenvolvedor {
+  nome = "Arnaldo Neto";
   area = "Software Development";
-  job = "Salt Systems";
-  location = "Salvador / BA";
+  local = "Salvador / BA";
 }
 
-class Skills extends Developer {
+class Habilidades extends Desenvolvedor {
   languages = ["JavaScript", "Typescript", "Python"];
   environments = ["Node.js", "Conda"];
   libraries = ["React", "Axios", "Redux", "Pandas", "Numpy"];
@@ -26,8 +25,8 @@ class Skills extends Developer {
 
 ## About me
 
-- 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Graduated in Systems Analysis and Development.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 
 - 💼 Currently working as a Software Developer at Salt Systems.
 - 🌱 Learning more about Data Science and Artificial Intelligence.
 
