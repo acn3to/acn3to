@@ -4,22 +4,22 @@
 </table>
 
 ```js
-import Desenvolvedor from acn3to;
+import Developer from acn3to;
 
-class SobreMim extends Desenvolvedor {
-    nome = "Arnaldo Neto";
+class AboutMe extends Developer {
+    name = "Arnaldo Neto";
     area = "Desenvolvimento de Software";
-    localizacao = "Salvador / BA";
+    location = "Salvador / BA";
 }
 
-class Habilidades extends Desenvolvedor {
-    linguagens = ["JavaScript", "Typescript", "Python"];
-    ambientes = ["Node.js", "Conda"];
-    bibliotecas = ["React", "Axios", "Redux", "Pandas", "Numpy"];
-    frameworks = ["NestJS", "Express.js"];
-    bancosDeDados = ["MongoDB", "PostgreSQL", "Redis"];
-    nuvem = ["AWS", "GCP"];
-    ferramentas = ["Docker"];
+class Skills extends Developer {
+    languages = ["JavaScript", "Typescript", "Python", "Java"];
+    environments = ["Node.js", "Conda"];
+    libraries = ["React", "Axios", "Redux", "Pandas", "Numpy"];
+    frameworks = ["NestJS", "Express.js", "Spring Boot"];
+    databases = ["MongoDB", "PostgreSQL", "Redis"];
+    cloud = ["AWS", "GCP", "Azure"];
+    tools = ["Docker", "Qdrant", "LangChain", "n8n"];
 }
 ```
 
@@ -37,9 +37,11 @@ class Habilidades extends Desenvolvedor {
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
@@ -47,7 +49,6 @@ class Habilidades extends Desenvolvedor {
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
-
 <br/>
 
 **Banco de dados**
@@ -57,15 +58,14 @@ class Habilidades extends Desenvolvedor {
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div>
-
 <br/>
 
 **Testes**
 
 <div>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9D8E?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
-
 <br/>
 
 **Utilidades**
@@ -74,7 +74,6 @@ class Habilidades extends Desenvolvedor {
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
-
 <br/>
 
 **DevOps**
@@ -84,16 +83,15 @@ class Habilidades extends Desenvolvedor {
 <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
 <br/>
 
 **Cloud**
 
 <div>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
-
 <br/>
 
 **Ferramentas**
@@ -104,7 +102,6 @@ class Habilidades extends Desenvolvedor {
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
-
 <br/>
 
 <a href="https://github.com/acn3to" title="Arnaldo's Profile">
