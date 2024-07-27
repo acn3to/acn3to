@@ -13,15 +13,14 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-    languages = ["JavaScript", "Typescript", "Python"];
+    languages = ["JavaScript", "Typescript", "Python", "Java"];
     environments = ["Node.js", "Conda"];
     libraries = ["React", "Axios", "Redux", "Pandas", "Numpy"];
-    frameworks = ["NestJS", "Express.js"];
+    frameworks = ["NestJS", "Express.js", "Spring Boot"];
     databases = ["MongoDB", "PostgreSQL", "Redis"];
-    cloud = ["AWS", "GCP"];
-    tools = ["Docker"];
+    cloud = ["AWS", "GCP", "Azure"];
+    tools = ["Docker", "Qdrant", "LangChain", "n8n"];
 }
-```
 
 ## About me
 
@@ -37,9 +36,11 @@ class Skills extends Developer {
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
@@ -47,17 +48,14 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
-
 <br/>
 
 **Databases**
 
 <div>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/pytest-0A9D8E?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
-
 <br/>
 
 **Testing**
@@ -65,7 +63,6 @@ class Skills extends Developer {
 <div>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
-
 <br/>
 
 **Utilities**
@@ -74,7 +71,6 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
-
 <br/>
 
 **DevOps**
@@ -84,7 +80,6 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
 <br/>
 
 **Cloud**
@@ -92,8 +87,8 @@ class Skills extends Developer {
 <div>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
-
 <br/>
 
 **Development Tools**
@@ -104,7 +99,6 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 </div>
-
 <br/>
 
 <a href="https://github.com/acn3to" title="Arnaldo's Profile">
