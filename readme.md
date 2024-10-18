@@ -3,51 +3,65 @@
  <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-ptBR.md">:brazil: Português</a></td></tr>
 </table>
 
-```js
-import Developer from acn3to;
+```java
+import dev.acn3to.Developer;
 
-class AboutMe extends Developer {
-    name = "Arnaldo Neto";
-    area = "Software Development";
-    location = "Salvador / BA";
+public class AboutMe extends Developer {
+    private String name = "Arnaldo Neto";
+    private String area = "Software Development";
+    private String location = "Salvador / BA";
+    private String[] specialties = {"Backend", "Low-Code", "Cloud Infrastructure"};
 }
 
-class Skills extends Developer {
-    languages = ["JavaScript", "Typescript", "Python", "Java"];
-    environments = ["Node.js", "Conda"];
-    libraries = ["React", "Axios", "Redux", "Pandas", "Numpy"];
-    frameworks = ["NestJS", "Express.js", "Spring Boot"];
-    databases = ["MongoDB", "PostgreSQL", "Redis"];
-    cloud = ["AWS", "GCP", "Azure"];
-    tools = ["Docker", "Qdrant", "LangChain", "n8n"];
+public class Skills extends Developer {
+    private String[] languages = {"JavaScript", "TypeScript", "Python", "Java"};
+    private String[] environments = {"Node.js", "Conda"};
+    private String[] libraries = {"React", "Axios", "Redux", "Pandas", "Numpy"};
+    private String[] frameworks = {"NestJS", "Express.js", "Spring Boot", "Angular"};
+    private String[] databases = {"MongoDB", "PostgreSQL", "Redis", "Elasticsearch"};
+    private String[] cloud = {"AWS", "GCP", "Azure"};
+    private String[] tools = {"Docker", "Qdrant", "LangChain", "n8n", "Typebot", "Dify"};
+    private String[] other = {"RESTful APIs", "GraphQL", "Microservices", "TDD"};
 }
 ```
 
 ## About me
 
-- 🤔 Exploring new technologies and developing software solutions.
+- 🚀 Versatile Software Developer specializing in backend, low-code solutions, and cloud infrastructure.
+- 💼 Currently working as a Backend Software Developer at Salt Systems.
+- 🌱 Passionate about exploring AI, agent frameworks, and low-code tools for innovative solutions.
 - 🎓 Graduated in Systems Analysis and Development.
-- 💼 Currently working as a Software Developer at Salt Systems.
-- 🌱 Learning more about Data Science and Artificial Intelligence.
+- 🤝 Former Programming Mentor at Cubos Academy.
+- 🔍 Constantly exploring new technologies and developing software solutions.
 
 ## Skills
 
-**Languages, libraries, and frameworks**
+**Languages, Libraries, and Frameworks**
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+<br/>
+
+**Low-Code/No-Code Tools**
+
+<div>
+<img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Typebot-5E5CE6?style=for-the-badge&logo=typebot&logoColor=white" />
+<img src="https://img.shields.io/badge/Dify-FF6C37?style=for-the-badge&logo=dify&logoColor=white" />
 </div>
 <br/>
 
@@ -57,6 +71,7 @@ class Skills extends Developer {
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </div>
 <br/>
 
@@ -68,29 +83,25 @@ class Skills extends Developer {
 </div>
 <br/>
 
-**Utilities**
-
-<div>
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</div>
-<br/>
-
-**DevOps**
+**DevOps & Cloud**
 
 <div>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-<br/>
-
-**Cloud**
-
-<div>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+<br/>
+
+**Other Technologies**
+
+<div>
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-121212?style=for-the-badge&logo=qdrant&logoColor=white" />
 </div>
 <br/>
 
@@ -117,4 +128,3 @@ class Skills extends Developer {
 [![GitHub](https://img.shields.io/github/followers/acn3to?label=follow&style=social)](https://github.com/acn3to)
 
 </div>
-
