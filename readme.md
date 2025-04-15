@@ -16,16 +16,17 @@ public class AboutMe extends Developer {
     private String area = "Software Development";
     private String location = "Salvador / BA";
     private String[] specialties = {"Backend", "AI Engineering", "Low-Code", "Cloud Infrastructure"};
-    private String currentFocus = "Building RAG systems and autonomous agents";
+    private String currentFocus = "Building RAG systems, AI agents and conversational interfaces with LLMs";
 }
 
 public class Skills extends Developer {
     private String[] languages = {"JavaScript", "TypeScript", "Python", "Java"};
     private String[] frameworks = {"NestJS", "Express.js", "Spring Boot", "Angular"};
     private String[] databases = {"MongoDB", "PostgreSQL", "Redis", "Elasticsearch"};
-    private String[] ai = {"LangChain", "LlamaIndex", "OpenAI", "Qdrant", "RAG", "Crew AI"};
-    private String[] lowCode = {"n8n", "Typebot", "Dify", "Metabase"};
+    private String[] ai = {"LangChain", "OpenAI", "Qdrant", "RAG", "CrewAI", "AI Agents"};
+    private String[] lowCode = {"n8n", "Typebot", "Metabase"};
     private String[] architecture = {"Microservices", "DDD", "Hexagonal Architecture", "RESTful APIs"};
+    private String[] testing = {"Jest", "Pytest"};
 }
 ```
 
@@ -33,10 +34,12 @@ public class Skills extends Developer {
 
 - 🚀 Backend Developer with 2+ years of experience, building scalable systems that deliver measurable business outcomes
 - 💼 Currently developing high-performance APIs and AI solutions at **Salt Systems**
-- 🤖 Crafting RAG-based implementations and autonomous agents that enhance credit recovery platforms
+- 🤖 Creating RAG systems, AI agents and conversational interfaces that enhance credit recovery platforms
 - 🧩 Designing microservices architectures following DDD and Hexagonal patterns
 - 🎓 Former Programming Mentor at Cubos Academy, guiding 30+ students through their coding journey
 - 📊 Data pipeline enthusiast: connecting MongoDB, PostgreSQL, and Elasticsearch to power business intelligence
+- 💬 Integrating WhatsApp Business API for enhanced customer interactions
+- ☕ Backend developer by day, AI wizard by night. Turning coffee into code and business problems into effective solutions... without accidentally creating Skynet (so far). 🤖
 
 ## 🛠️ Tech Stack
 
@@ -64,13 +67,19 @@ public class Skills extends Developer {
   
 <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Typebot-5E5CE6?style=for-the-badge&logo=typebot&logoColor=white" />
-<img src="https://img.shields.io/badge/Dify-FF6C37?style=for-the-badge&logo=dify&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
 
 ### DevOps & Cloud
   
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
+
+### Testing
+  
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </div>
 
 ## 🚀 Featured Projects
@@ -78,17 +87,18 @@ public class Skills extends Developer {
 ### 📊 Credit Recovery Platform
 - Led backend development for platforms serving Ambev and Afamais
 - Improved recovery rates by 20% through optimized data processing
-- Built ETL pipelines with MongoDB aggregation framework
+- Built data pipelines with MongoDB for real-time Metabase dashboards
 
 ### 🤖 AI-Powered Document Processing
 - Architected complete SaaS solution with Python, RAG, and LangChain
 - Implemented production-grade vector search using Qdrant
 - Created WhatsApp Business API integration for document retrieval
 
-### 🔄 Workflow Automation System
-- Developed autonomous AI agents with n8n and Crew AI
-- Created omnichannel interfaces that significantly reduced manual tasks
-- Integrated with existing credit negotiation platforms
+### 💬 Conversational Interfaces & AI Agents
+- Developed intelligent chatflows with Typebot and LLMs
+- Created autonomous AI agents that handle complex decision-making processes
+- Built omnichannel interfaces with WhatsApp Business API integration
+- Implemented solutions that significantly reduced manual customer service tasks
 
 ## 📈 GitHub Stats
 
