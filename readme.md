@@ -1,122 +1,85 @@
-<table>
- <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/acn3to/acn3to/blob/main/readme-ptBR.md">:brazil: Português</a></td></tr>
-</table>
+<p align="center">
+  <a href="https://github.com/acn3to/acn3to/blob/main/readme.md">EN</a> · <a href="https://github.com/acn3to/acn3to/blob/main/readme-ptBR.md">PT-BR</a>
+</p>
 
 <div align="center">
-  <h1>Hey there, I'm Arnaldo! 👋</h1>
-  <h3>Backend Developer with a passion for AI-powered solutions</h3>
-</div>
 
-```java
-import dev.acn3to.Developer;
+# Arnaldo Costa Neto
 
-public class AboutMe extends Developer {
-    private String name = "Arnaldo Neto";
-    private String area = "Software Development";
-    private String location = "Salvador / BA";
-    private String[] specialties = {"Backend", "AI Engineering", "Low-Code", "Cloud Infrastructure"};
-    private String currentFocus = "Building RAG systems, AI agents and conversational interfaces with LLMs";
-}
+**Software Engineer · Backend & AI systems**
 
-public class Skills extends Developer {
-    private String[] languages = {"JavaScript", "TypeScript", "Python", "Java"};
-    private String[] frameworks = {"NestJS", "Express.js", "Spring Boot", "Angular"};
-    private String[] databases = {"MongoDB", "PostgreSQL", "Redis", "Elasticsearch"};
-    private String[] ai = {"LangChain", "OpenAI", "Qdrant", "RAG", "CrewAI", "AI Agents"};
-    private String[] lowCode = {"n8n", "Typebot", "Metabase"};
-    private String[] architecture = {"Microservices", "DDD", "Hexagonal Architecture", "RESTful APIs"};
-    private String[] testing = {"Jest", "Pytest"};
-}
-```
+*Building LLM-based systems in production with RAG, agentic workflows and serverless APIs*
 
-## 💫 About Me
-
-- 🚀 Backend Developer with 2+ years of experience, building scalable systems that deliver measurable business outcomes
-- 💼 Currently developing high-performance APIs and AI solutions at **Salt Systems**
-- 🤖 Creating RAG systems, AI agents and conversational interfaces that enhance credit recovery platforms
-- 🧩 Designing microservices architectures following DDD and Hexagonal patterns
-- 🎓 Former Programming Mentor at Cubos Academy, guiding 30+ students through their coding journey
-- 📊 Data pipeline enthusiast: connecting MongoDB, PostgreSQL, and Elasticsearch to power business intelligence
-- 💬 Integrating WhatsApp Business API for enhanced customer interactions
-- ☕ Backend developer by day, AI wizard by night. Turning coffee into code and business problems into effective solutions... without accidentally creating Skynet (so far). 🤖
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-### Core Technologies
-  
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-### Data & AI
-  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-121212?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-
-### Automation & Low-Code
-  
-<img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Typebot-5E5CE6?style=for-the-badge&logo=typebot&logoColor=white" />
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
-
-### DevOps & Cloud
-  
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />
-
-### Testing
-  
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-</div>
-
-## 🚀 Featured Projects
-
-### 📊 Credit Recovery Platform
-- Led backend development for platforms serving Ambev and Afamais
-- Improved recovery rates by 20% through optimized data processing
-- Built data pipelines with MongoDB for real-time Metabase dashboards
-
-### 🤖 AI-Powered Document Processing
-- Architected complete SaaS solution with Python, RAG, and LangChain
-- Implemented production-grade vector search using Qdrant
-- Created WhatsApp Business API integration for document retrieval
-
-### 💬 Conversational Interfaces & AI Agents
-- Developed intelligent chatflows with Typebot and LLMs
-- Created autonomous AI agents that handle complex decision-making processes
-- Built omnichannel interfaces with WhatsApp Business API integration
-- Implemented solutions that significantly reduced manual customer service tasks
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acn3to&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=acn3to&theme=tokyonight" />
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
- 
-[![Linkedin](https://img.shields.io/badge/-Arnaldo_Neto-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldo-fullstack)](https://www.linkedin.com/in/arnaldo-fullstack)
-[![Gmail](https://img.shields.io/badge/-costanetoow@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costanetoow@email.com)](mailto:costanetoow@email.com)
-[![GitHub](https://img.shields.io/github/followers/acn3to?label=follow&style=social)](https://github.com/acn3to)
+<img src="https://img.shields.io/badge/Remote-Brazil-6C5CE7?style=flat-square" alt="Location" />
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=acn3to&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Bedrock" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Typebot-5E5CE6?style=for-the-badge&logo=typebot&logoColor=white" alt="Typebot" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase" />
+  <img src="https://img.shields.io/badge/Mautic-4F5698?style=for-the-badge&logoColor=white" alt="Mautic" />
+  <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logoColor=white" alt="Chatwoot" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-API-6C5CE7?style=for-the-badge" alt="REST" />
+  <img src="https://img.shields.io/badge/DDD-6C5CE7?style=for-the-badge" alt="DDD" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" />
+</p>
+
+---
+
+**About:** 3+ years in backend; currently at **Santander Corretora** (ex–Toro), building RAG pipelines on Amazon Bedrock, agentic workflows, and APIs on AWS serverless (Lambda, DynamoDB, SNS, SQS). Previous work: credit recovery platforms with RAG chatbots (Salt Systems), document SaaS with vector search (Chrismon), and mentoring at Cubos Academy.
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/acn3to"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:acn3to.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acn3to&color=6C5CE7&style=flat-square" alt="Profile views" />
+</p>
